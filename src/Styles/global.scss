@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #f8f8f8;
+    color: #29292e;
+  }
+  
+  body, input, button, textarea {
+    font: 400 16px 'Roboto', sans-serif;
+  }
+
+  .ant-input {
+    background: #ffffff !important;
+    border: 1px solid #ccd1d9 !important;
+    border-radius: 30px !important;
+    color: #434a54 !important;
+    padding: 10px 20px !important;
+    font-size: 18px;
+    font-weight: 700;
+  }
